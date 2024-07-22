@@ -46,123 +46,27 @@ See below image :
 The navigation bar consists of the below:
 
 #### Store: 
+
 Clicking store section unfolds 3 options- to sort products by price, by name and to view all products
 
 #### Category:
+
 Unfolds categories of books in the store for ease of filtering out what one wants to buy 
 
+#### About:
+
+Provides details about the store 
+
+### **Home page and Hero Image**
+
+The home page has an image of book to capture the attention of buyers & for ease there's a 'Shop Now' button that links to product page 
+
+## **Delivery Banner **
+
+The delivery banner indicates the buyers to shop for £30 and more to get free delivery 
 
 
 
-### **Structure**
-
-The structure involves space to add new tasks, button to edit or complete tasks and a button to delete tasks 
-
-## **Features**
-
----
-
-This app is designed with an intent to help users to easily organize their tasks and update status 
-
-### *Add New Tasks & Submit*
-
-![](documents/images/addtask_submit.png)
-
-### *Edit/ Complete Tasks*
-
-![](documents/images/edit_delete_items.png)
-![](documents/images/edit_complete_page.png)
-
-### *Delete*
-
-![](documents/images/delete_page.png)
-
-## Technologies Used
-
-The technologies i have used to create this website are as below-
-
-    
-  * [Django](https://www.djangoproject.com/)
-  * [python](https://www.python.org/)
-  * Used as the main programming language
-  * [GitHub](https://github.com/)
-  * Used to store code for the project after being pushed.
-  * [codeanywhere](https://codeanywhere.com/)
-  * Used as the development environment.
-  * [Heroku](https://heroku.com/)
-  * Used for deployment
-
-## Testing
-
-Testing was done manually during development, no automation created due to time constraints. Will be working this further for enhancement 
-
-
-## Deployment
-
----
-
-The website was deployed to Heroku using the following steps on the CLI:
-
-### Login or create an account at Heroku
-
-* Sign up for an account in Heroku and login
-
-### Creating an app using heroku create app command
-
-### Add Config Vars
-
-### Use git push heroku main to deploy
-
-### Link local git hub repo to heroku to automatically update any changes to heroku
-
-* Connect GitHub
-* Login if prompted
-
-### Connect to GitHub
-
-* Choose repositories you want to connect
-* Click "Connect"
-
-### Automatic 
-
-* Enable auotmatic deploy
-  
-
-### Final Deployment
-
-* Click the view link to diplay the deployed website
-
-### Forking the GitHub Repository
-
-* Go to the GitHub repository
-* Click on Fork button in top right corner
-* You will then have a copy of the repository in your own GitHub account.
-* GitHub Repository
-
-### Cloning the repository in GitHub
-
-* Visit the GitHub page of the website's repository
-* Click the “Clone” button on top of the page
-* Click on “HTTPS”
-* Click on the copy button next to the link to copy it
-* Open your IDE
-* Type git clone (copied URL)   into the terminal
-
-## Credits
-
-Have used various sources to arrive at the idea of designing the quiz
-
-* You Tube Videos - Some of the code blocks are used following you tube videos of similar apps 
-* Stackoverflow (for any error encountered)
-* Hello Django walk through project & deployment steps 
-
-## Acknowledgements
-
-* This project could not be completed with authentication functionalities as a result of time contraints & also the fact that i was struggling with initial deployment which resulted in some code breaking, as a result of which i had a create a new repo and copy & paste the codes from the original repo (https://github.com/msnirmal/Portfolio4), which i was planning to submit. I will be working this further to get it up in entirety with authentication functionalities 
-  
-* The responsiveness of the website is an issue, that i am working to fix 
-* Followed agile methodology, however, unfortunately, i lost all the user stories at the time of submission 
-* The app needs more work on the aspects above & some more but submitting based on the fact that the main functionalities of add/edit/ compelte/ delete are working fine 
 
 
 
