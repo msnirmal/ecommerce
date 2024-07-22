@@ -27,7 +27,7 @@ To help users enable to find the book of their choice for their toddlers with ea
 
 ==
 
-## **Header**
+### **Header**
 
 The header contains the company logo to the left-which is a link to the home page,  a search box in the center and My Account and Shopping cart icons on the right. 
 
@@ -35,26 +35,24 @@ My Account section is further broken in to Product Management, Profile & Log out
 
 Shopping cart icon shows the sum of all products as a visual representation that the products are indeed added as you click the add to cart button  
 
-See below for image 
+See below image :
 
 ![](documents/images/Header.png)
 
 ---
 
-### **Strategy**
+### **NavBar**
 
-To be in line with UX principles, first i thought  of a strategy to identify who the target users would be and what features they are looking for
+The navigation bar consists of the below:
 
-Tasks/ ToDo app target users are:
+#### Store: 
+Clicking store section unfolds 3 options- to sort products by price, by name and to view all products
 
-* Aged 15 & over (Can be under 15's with parental permission to use electronics)
-* People who love to be organized in term of their tasks 
+#### Category:
+Unfolds categories of books in the store for ease of filtering out what one wants to buy 
 
 
-User requirements:
 
-* Simple and easy to use 
-* Basic website with add, edit & delete functionalities
 
 ### **Structure**
 
