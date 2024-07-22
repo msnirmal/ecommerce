@@ -221,6 +221,22 @@ The website was deployed to Heroku using the following steps on the CLI:
 * Open your IDE
 * Type git clone (copied URL)   into the terminal
 
+## Acknowledgements
+
+* This website is built based on walkthrough "Boutique Ado"  with some customisation to meet the requirements of a simple project that i planned. There are certain sections of code & model written by me and rest based on walk through 
+
+* Must also acknowledge that i am still fixing bug with respect to product management page as a result i have not incorporated admin funcationalities of adding, editing and deleting products.
+
+* Used the new version of allauth which doesnt have the base template as the one in walk through, hence the styling and alignment of templates needs work which is another aspect i have to fix 
+
+* Must also acknowledge that i could not incorporate things like webhook, toasts but the learning is on, to be able to add them to the project 
+
+## Credits 
+
+Thanks to the code institute walkthrough project which helped me learn how things work when building a fullfledged project like this as being from a different domain this project was unique as compared to the previous projects at code institute 
+
+
+
 
 
 
