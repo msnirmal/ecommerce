@@ -25,12 +25,19 @@ To help users enable to find the book of their choice for their toddlers with ea
 8. Checkout Page 
 9. Checkout Success Page
 
-
-
-
 ==
 
-## **UX**
+## **Header**
+
+The header contains the company logo to the left-which is a link to the home page,  a search box in the center and My Account and Shopping cart icons on the right. 
+
+My Account section is further broken in to Product Management, Profile & Log out links if user has completed authentication else has links to Register and Login
+
+Shopping cart icon shows the sum of all products as a visual representation that the products are indeed added as you click the add to cart button  
+
+See below for image 
+
+![](documents/images/Header.png)
 
 ---
 
