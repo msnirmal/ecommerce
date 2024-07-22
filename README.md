@@ -57,13 +57,42 @@ Unfolds categories of books in the store for ease of filtering out what one want
 
 Provides details about the store 
 
-### **Home page and Hero Image**
+#### **Home page and Hero Image**
 
 The home page has an image of book to capture the attention of buyers & for ease there's a 'Shop Now' button that links to product page 
 
-## **Delivery Banner **
+#### **Delivery Banner **
 
 The delivery banner indicates the buyers to shop for £30 and more to get free delivery 
+
+See image below with all the NavBar links:
+
+![](documents/images/NavBar.png)
+
+![](documents/images/DeliveryBanner.png)
+
+### Products Page
+
+Products page give a full list of products when 'store' is selected from tbe dropdown on Navigation link 'Store'
+
+![](documents/images/Products_1.png) 
+
+![](documents/images/Products2.png)
+
+### Product Detail Page
+
+The product detail page pops up once a product image is clicked from the products menu and provides details like the name, price and a desciption of the product. Along with this, there's an option to add the product to cart, select quantity and  continue shopping, which directs the user to products page to explore more options 
+
+![](documents/images/productdetail.png)
+
+
+
+
+
+
+
+
+
 
 
 
