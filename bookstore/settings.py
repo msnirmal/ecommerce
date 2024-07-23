@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-x6f05!l9d&)nnm-(ff*-ajp)1)=v7a_+c^ebxpr+bz%7!6gh!$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-msnirmal-ecommerce-cl69d7zqqms.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['https://git.heroku.com/bookstore2024.git', 'localhost']
 
 
 # Application definition
