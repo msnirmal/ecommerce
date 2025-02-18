@@ -223,7 +223,7 @@ The website was deployed to Heroku using the following steps on the CLI:
 
 ## Acknowledgements
 
-* This website is built based on walkthrough "Boutique Ado"  with some customisation to meet the requirements of a simple project that i planned. There are certain sections of code & model written by me and rest based on walk through 
+* This website is built based on walkthrough projecct  with some customisation to meet the requirements of a simple project that i planned. 
 
 * Must also acknowledge that i am still fixing bug with respect to product management page as a result i have not incorporated admin funcationalities of adding, editing and deleting products.
 
